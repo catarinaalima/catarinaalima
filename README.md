@@ -11,7 +11,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/@jpedrozp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@jpedrozp" height="30" width="40" /></a>
+
 <a href="https://discord.gg/joaopedrox#2201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="joaopedrox#2201" height="30" width="40" /></a>
 </p>
 <br>
