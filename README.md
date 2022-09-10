@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Catarina Lima</h1>
+<h1 align="center">Hi 👋, I'm Catarina</h1>
 <p align="left">I'm studying Computer Science. Just looking for opportunities, collaborating on projects, and always learning.</p>
 
 - 🌱 I’m currently learning **Python and courses from Udemy**
