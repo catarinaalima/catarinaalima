@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **contato.catarinalima@gmail.com**
 
-- ⚡ Obsessions **Marvel, animes and play Minecraft.**
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
