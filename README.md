@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Catarina</h1>
 <p align="left">I'm studying Computer Science. Just looking for opportunities, collaborating on projects, and always learning.</p>
 
-- 🌱 I’m currently learning **Front-End from Udemy**
+- 🌱 I’m currently learning **Python from Udemy**
 
 - 👯 I’m looking to collaborate on **in a project to improve my experiences and knowledge.**
 
