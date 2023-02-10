@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Catarina Lima</h1>
+<h1 align="center">Hi, I'm Catarina</h1>
 <h3 align="center">A developer in progress.</h3>
 
 - 🌱 I’m currently learning **Python.**
