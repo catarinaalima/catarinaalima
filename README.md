@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Python.**
 
-- 👯 I’m looking to collaborate on **projects to develop skills.**
+- 👯 Looking to collaborate on **projects to develop skills.**
 
-- 📫 How to reach me **contato.catarinalima@gmail.com**
+- 👜 IT infrastructure trainee at Lourenço Filho school.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
