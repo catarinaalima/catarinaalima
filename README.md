@@ -1,8 +1,8 @@
-<h1 align="center">hello, stranger</h1>
+<h1 align="left">hello, stranger</h1>
 
-- 👯 Looking to collaborate on **projects to develop skills.**
+- looking to collaborate on **projects to develop skills.**
   
-- 👜 IT infrastructure trainee at Lourenço Filho school.
+- IT infrastructure trainee at Lourenço Filho school.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
