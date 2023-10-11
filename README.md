@@ -1,10 +1,7 @@
-<h1 align="center">Hi, I'm Catarina</h1>
-<h3 align="center">A developer in progress.</h3>
-
-- 🌱 I’m currently learning **Python.**
+<h1 align="center">hello, stranger</h1>
 
 - 👯 Looking to collaborate on **projects to develop skills.**
-
+  
 - 👜 IT infrastructure trainee at Lourenço Filho school.
 
 <h3 align="left">Connect with me:</h3>
